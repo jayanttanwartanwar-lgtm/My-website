@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Contact</title>
+</head>
+<body>
+
+    <h1>Contact Page</h1>
+
+    <h2>Name: Soham</h2>
+
+    <p>Thanks for visiting my website!</p>
+
+    <a href="index.html">Back to Home</a>
+
+</body>
+</html>
